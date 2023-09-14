@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4350C4E8275724E300670F28 /* iOS_1101_Hw3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_1101_Hw3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4350C4E8275724E300670F28 /* Bear-elf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bear-elf.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4350C4EB275724E300670F28 /* iOS_1101_Hw3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_1101_Hw3App.swift; sourceTree = "<group>"; };
 		4350C4ED275724E300670F28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4350C4EF275724E500670F28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		4350C4DF275724E300670F28 = {
 			isa = PBXGroup;
 			children = (
-				4350C4EA275724E300670F28 /* iOS_1101_Hw3 */,
+				4350C4EA275724E300670F28 /* Bear-elf */,
 				4350C4E9275724E300670F28 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		4350C4E9275724E300670F28 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4350C4E8275724E300670F28 /* iOS_1101_Hw3.app */,
+				4350C4E8275724E300670F28 /* Bear-elf.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4350C4EA275724E300670F28 /* iOS_1101_Hw3 */ = {
+		4350C4EA275724E300670F28 /* Bear-elf */ = {
 			isa = PBXGroup;
 			children = (
 				4350C4EB275724E300670F28 /* iOS_1101_Hw3App.swift */,
@@ -64,7 +64,7 @@
 				4350C4F4275724E500670F28 /* Info.plist */,
 				4350C4F1275724E500670F28 /* Preview Content */,
 			);
-			path = iOS_1101_Hw3;
+			path = "Bear-elf";
 			sourceTree = "<group>";
 		};
 		4350C4F1275724E500670F28 /* Preview Content */ = {
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4350C4E7275724E300670F28 /* iOS_1101_Hw3 */ = {
+		4350C4E7275724E300670F28 /* Bear-elf */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4350C4F7275724E500670F28 /* Build configuration list for PBXNativeTarget "iOS_1101_Hw3" */;
+			buildConfigurationList = 4350C4F7275724E500670F28 /* Build configuration list for PBXNativeTarget "Bear-elf" */;
 			buildPhases = (
 				4350C4E4275724E300670F28 /* Sources */,
 				4350C4E5275724E300670F28 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = iOS_1101_Hw3;
+			name = "Bear-elf";
 			productName = iOS_1101_Hw3;
-			productReference = 4350C4E8275724E300670F28 /* iOS_1101_Hw3.app */;
+			productReference = 4350C4E8275724E300670F28 /* Bear-elf.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4350C4E3275724E300670F28 /* Build configuration list for PBXProject "iOS_1101_Hw3" */;
+			buildConfigurationList = 4350C4E3275724E300670F28 /* Build configuration list for PBXProject "Bear-elf" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4350C4E7275724E300670F28 /* iOS_1101_Hw3 */,
+				4350C4E7275724E300670F28 /* Bear-elf */,
 			);
 		};
 /* End PBXProject section */
@@ -276,16 +276,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"iOS_1101_Hw3/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Bear-elf/Preview Content\"";
 				DEVELOPMENT_TEAM = J886232PB6;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = iOS_1101_Hw3/Info.plist;
+				INFOPLIST_FILE = "Bear-elf/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-.iOS-1101-Hw3";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.Bear-elf";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -298,16 +298,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"iOS_1101_Hw3/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Bear-elf/Preview Content\"";
 				DEVELOPMENT_TEAM = J886232PB6;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = iOS_1101_Hw3/Info.plist;
+				INFOPLIST_FILE = "Bear-elf/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-.iOS-1101-Hw3";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.Bear-elf";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4350C4E3275724E300670F28 /* Build configuration list for PBXProject "iOS_1101_Hw3" */ = {
+		4350C4E3275724E300670F28 /* Build configuration list for PBXProject "Bear-elf" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4350C4F5275724E500670F28 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4350C4F7275724E500670F28 /* Build configuration list for PBXNativeTarget "iOS_1101_Hw3" */ = {
+		4350C4F7275724E500670F28 /* Build configuration list for PBXNativeTarget "Bear-elf" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4350C4F8275724E500670F28 /* Debug */,
